@@ -1,1 +1,1 @@
-Add Weights & Biases Docs integrations page (#7199)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
