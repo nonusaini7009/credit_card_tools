@@ -1,1 +1,1 @@
-Add https://youtu.be/ZzUSXQkLbNw to Integration Docs (#8793)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
