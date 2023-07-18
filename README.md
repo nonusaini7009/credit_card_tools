@@ -1,1 +1,1 @@
-Add https://youtu.be/rCggzXRRSRo to Speed Estimation Docs (#8577)
+ultralytics 8.1.33 fix HUB model checks (#9153)
