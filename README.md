@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+Add bgr hyperparameter (#9139)
