@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Fix OpenVINO missing batch-size bug (#9264)
