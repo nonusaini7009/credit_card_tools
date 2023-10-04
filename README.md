@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Clarify triton server boolean value (#8532)
