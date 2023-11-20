@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Move Explorer tests to scheduled CI (#8305)
