@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
