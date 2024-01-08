@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
