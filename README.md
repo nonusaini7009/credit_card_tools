@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+docs: update view-results-in-terminal.md (#66)
