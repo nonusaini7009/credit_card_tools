@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+YOLOv8 INT8 TFLite Inference Example (#7317)
