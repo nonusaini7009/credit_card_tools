@@ -1,1 +1,1 @@
-fix resume training
+fix non-coco val
