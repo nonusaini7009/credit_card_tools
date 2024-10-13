@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Improve Docs Modes tables (#8266)
